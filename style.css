@@ -1,0 +1,186 @@
+.Primary{
+    background-color: #1189e6;
+  border:1px solid;
+  margin:20px;
+  border-radius: 5px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 18px;  
+}
+.Secondary{
+    background-color: #b7bbbe;
+  border:1px solid;
+  margin:20px;
+  border-radius: 3px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration:none;
+  display: inline-block;
+  font-size: 18px;   
+}
+.success{
+    background-color: #04AA6D;
+  border:1px solid;
+  margin:20px;
+  border-radius: 5px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 18px;
+}
+.info{
+    background-color: #104ae9;
+  border:1px solid;
+  margin:20px;
+  border-radius: 5px;
+  color: white;
+  padding: 12px 30px;
+  text-align: center;
+  display: inline-block;
+  font-size: 18px;
+}
+.Warning{
+    background-color: #bee417;
+  border:1px solid;
+  margin:20px;
+  border-radius: 5px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 18px;
+}
+.Danger{
+    background-color: #f80c0c;
+  border:1px solid;
+  margin:20px;
+  border-radius: 5px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 18px;
+}
+.Round{
+    background-color: #20eee4;
+  border:1px solid;
+  margin:20px;
+  border-radius: 50px;
+  color: white;
+  padding: 13px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 18px;
+}
+i{
+    background-color: rgb(9, 146, 170);
+    color: white;
+    margin: 20px;
+    padding: 20px 20px;
+    border: 1px solid;
+    border-radius: 50%;
+    display: inline-block;
+    font-size: 18px;
+}
+.icon{
+    background-color: rgb(5, 157, 184);
+  border:1px solid;
+  margin:20px;
+  border-radius: 5px;
+  color: white;
+  padding: 13px 25px;
+  text-align: center;
+  display: inline-block;
+  font-size: 20px;
+}
+.dashed{
+    
+  border:1px dashed rgb(20, 53, 241);
+  margin:20px;
+  border-radius: 5px;
+  color: rgb(20, 53, 241);
+  padding: 13px 25px;
+  text-align: center;
+  display: inline-block;
+  font-size: 20px;
+}
+.click{
+  background-color: rgb(8, 179, 209);
+  border:1px solid;
+  margin:20px;
+  border-radius: 5px;
+  color: white;
+  padding: 13px 25px;
+  text-align: center;
+  display: inline-block;
+  font-size: 20px;
+}
+.jelly{
+  background-color: rgb(8, 179, 209);
+  border:1px solid;
+  margin:20px;
+  border-radius: 5px;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  display: inline-block;
+  font-size: 20px;
+}
+.fill{
+  border:1px solid rgb(21, 183, 233);
+  margin:20px;
+  border-radius: 5px;
+  color: rgb(21, 183, 233);
+  padding: 10px 20px;
+  text-align: center;
+  display: inline-block;
+  font-size: 20px;
+}
+.pulse{
+  background-color: rgb(8, 179, 209);
+  border:1px solid;
+  margin:20px;
+  border-radius: 5px;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  display: inline-block;
+  font-size: 20px;
+}
+.offset{
+  background-color: rgb(8, 179, 209);
+  border:1px solid;
+  margin:20px;
+  border-radius: 5px;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  display: inline-block;
+  font-size: 20px;
+}
+.flip{
+  background-color: rgb(8, 179, 209);
+  border:1px solid;
+  margin:20px;
+  border-radius: 3px;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  display: inline-block;
+  font-size: 20px;
+}
+marquee{
+  background-color: rgb(8, 179, 209);
+  border:1px solid;
+  margin:20px;
+  border-radius: 40px;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  display: inline-block;
+  font-size: 20px;
+}
